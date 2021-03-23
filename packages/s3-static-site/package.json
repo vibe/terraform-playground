@@ -1,0 +1,8 @@
+{
+  "name": "@terraform-playground/s3-static-site",
+  "private": true,
+  "dependencies": {
+    "cdktf": "^0.2.0",
+    "constructs": "^3.3.68"
+  }
+}
