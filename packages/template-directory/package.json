@@ -1,0 +1,10 @@
+{
+  "name": "@terraform-playground/template-directory",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^14.14.35",
+    "cdktf": "^0.2.0",
+    "constructs": "^3.3.68",
+    "mime-types": "^2.1.29"
+  }
+}
